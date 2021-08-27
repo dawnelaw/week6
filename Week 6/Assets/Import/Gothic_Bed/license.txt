@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gothic Bed
+* source:	https://sketchfab.com/3d-models/gothic-bed-7f4b851ded5645e3b3c381769752a4c0
+* author:	vistaalienprime (https://sketchfab.com/vistaalienprime5665288)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gothic Bed" (https://sketchfab.com/3d-models/gothic-bed-7f4b851ded5645e3b3c381769752a4c0) by vistaalienprime (https://sketchfab.com/vistaalienprime5665288) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
